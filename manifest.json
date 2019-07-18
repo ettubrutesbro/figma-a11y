@@ -1,0 +1,7 @@
+{
+  "name": "figa11y",
+  "id": "733573309582082601",
+  "api": "0.6.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}

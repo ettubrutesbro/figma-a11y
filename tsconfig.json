@@ -1,0 +1,6 @@
+{
+  "typesRoots": [
+    "./typings",
+    "../node_modules/@types"
+  ]
+}
